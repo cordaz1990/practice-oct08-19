@@ -1,1 +1,1 @@
-words
+food_words
